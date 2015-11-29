@@ -1,0 +1,829 @@
+# Translation of Sparkling in English (Canada)
+# This file is distributed under the same license as the Sparkling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-24 01:30:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Sparkling\n"
+
+#. Theme Name of the plugin/theme
+msgid "Sparkling"
+msgstr "Sparkling"
+
+#. Description of the plugin/theme
+msgid "Sparkling is a clean minimal and responsive WordPress theme well suited for travel, health, business, finance, portfolio, design, art, photography, personal and any other creative websites and blogs. Developed using Bootstrap 3 that makes it mobile and tablets friendly. Theme comes with full-screen slider, social icon integration, author bio, popular posts widget and improved category widget. Sparkling incorporates latest web standards such as HTML5 and CSS3 and is SEO friendly thanks to its clean structure and codebase. It has dozens of Theme Options to change theme layout, colors, fonts, slider settings and much more. Theme is also translation and multilingual ready, compatible with WPML and is available in Spanish, French, Dutch, Polish, Russian, German, Brazilian Portuguese, Portuguese (Portugal), Persian (Iranian language), Romanian, Turkish, Bulgarian, Japanese, Lithuanian, Czech, Ukrainian, Traditional Chinese, Simplified Chinese, Indonesian, Estonian, Spanish (Argentina) and Italian. Sparkling is a free WordPress theme with premium functionality and design. Now theme is optimized to work with bbPress, Contact Form 7, Jetpack and other popular free and premium plugins."
+msgstr "Sparkling is a clean minimal and responsive WordPress theme well suited for travel, health, business, finance, portfolio, design, art, photography, personal and any other creative websites and blogs. Developed using Bootstrap 3 that makes it mobile and tablets friendly. Theme comes with full-screen slider, social icon integration, author bio, popular posts widget and improved category widget. Sparkling incorporates latest web standards such as HTML5 and CSS3 and is SEO friendly thanks to its clean structure and codebase. It has dozens of Theme Options to change theme layout, colours, fonts, slider settings and much more. Theme is also translation and multilingual ready, compatible with WPML and is available in Spanish, French, Dutch, Polish, Russian, German, Brazilian Portuguese, Portuguese (Portugal), Persian (Iranian language), Romanian, Turkish, Bulgarian, Japanese, Lithuanian, Czech, Ukrainian, Traditional Chinese, Simplified Chinese, Indonesian, Estonian, Spanish (Argentina) and Italian. Sparkling is a free WordPress theme with premium functionality and design. Now theme is optimized to work with bbPress, Contact Form 7, Jetpack and other popular free and premium plugins."
+
+#: inc/customizer.php:111
+msgid "Layout options"
+msgstr "Layout options"
+
+#: inc/customizer.php:126
+msgid "Choose between different layout options to be used as default"
+msgstr "Choose between different layout options to be used as default"
+
+#: inc/customizer.php:136
+msgid "Element Color"
+msgstr "Element Colour"
+
+#: inc/customizer.php:260
+msgid "Used in p tags"
+msgstr "Used in p tags"
+
+#: inc/customizer.php:500
+msgid "Check to show social icons in footer"
+msgstr "Check to show social icons in footer"
+
+#: inc/metaboxes.php:16
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+
+#: inc/metaboxes.php:21
+msgid "Select layout for this specific Post only"
+msgstr "Select layout for this specific Post only"
+
+#: functions.php:304
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: functions.php:304
+msgid "Full Width"
+msgstr "Full Width"
+
+#: inc/customizer.php:66
+msgid "Slider options"
+msgstr "Slider options"
+
+#: functions.php:292
+msgctxt "nav menu location"
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: inc/customizer.php:29
+msgid "Sparkling Options"
+msgstr "Sparkling Options"
+
+#: inc/customizer.php:30
+msgid "Panel to update sparkling theme options"
+msgstr "Panel to update sparkling theme options"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Search&hellip;"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Search for:"
+
+#: inc/customizer.php:499 options.php:376
+msgid "Footer Social Icons"
+msgstr "Footer Social Icons"
+
+#: options.php:377
+msgid "Show/Hide social icons in footer"
+msgstr "Show/Hide social icons in footer"
+
+#. Template Name of the plugin/theme
+msgid "Full-width(no sidebar)"
+msgstr "Full-width(no sidebar)"
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/customizer.php:518 options.php:548
+msgid "Additional CSS"
+msgstr "Additional CSS"
+
+#: inc/customizer.php:517 options.php:547
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: inc/customizer.php:507 options.php:542
+msgid "Other"
+msgstr "Other"
+
+#: options.php:535
+msgid "Spotify"
+msgstr "Spotify"
+
+#: options.php:527
+msgid "GitHub"
+msgstr "GitHub"
+
+#: options.php:519
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: options.php:511
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: options.php:503
+msgid "Skype"
+msgstr "Skype"
+
+#: options.php:495
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: options.php:487
+msgid "Instagram"
+msgstr "Instagram"
+
+#: options.php:479
+msgid "Flickr"
+msgstr "Flickr"
+
+#: options.php:471
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: options.php:463
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: options.php:455
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: options.php:447
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: options.php:439
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: options.php:431
+msgid "Youtube"
+msgstr "Youtube"
+
+#: options.php:423
+msgid "Google+"
+msgstr "Google+"
+
+#: options.php:415
+msgid "Twitter"
+msgstr "Twitter"
+
+#: options.php:406
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:488 options.php:397
+msgid "Footer social icon color"
+msgstr "Footer social icon colour"
+
+#: options.php:405
+msgid "Add full URL for your social network profiles"
+msgstr "Add full URL for your social network profiles"
+
+#: inc/customizer.php:467 options.php:384
+msgid "Social"
+msgstr "Social"
+
+#: inc/customizer.php:439 options.php:354
+msgid "Footer text color"
+msgstr "Footer text colour"
+
+#: inc/customizer.php:449 options.php:361
+msgid "Footer link color"
+msgstr "Footer link colour"
+
+#: inc/customizer.php:459 options.php:368
+msgid "Footer information"
+msgstr "Footer information"
+
+#: inc/customizer.php:460 options.php:369
+msgid "Copyright text in footer"
+msgstr "Copyright text in footer"
+
+#: inc/customizer.php:477 options.php:389
+msgid "Social icon color"
+msgstr "Social icon colour"
+
+#: inc/customizer.php:429 options.php:347
+msgid "Footer background color"
+msgstr "Footer background color"
+
+#: inc/customizer.php:419 options.php:340
+msgid "Footer widget area background color"
+msgstr "Footer widget area background colour"
+
+#: inc/customizer.php:409 options.php:335
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:358 options.php:295
+msgid "Top nav item hover color"
+msgstr "Top nav item hover colour"
+
+#: inc/customizer.php:359 options.php:296
+msgid "Link:hover color"
+msgstr "Link:hover colour"
+
+#: inc/customizer.php:369 options.php:303
+msgid "Top nav dropdown background color"
+msgstr "Top nav dropdown background colour"
+
+#: inc/customizer.php:370 inc/customizer.php:403 options.php:304
+#: options.php:328
+msgid "Background of dropdown item hover color"
+msgstr "Background of dropdown item hover colour"
+
+#: inc/customizer.php:380 options.php:311
+msgid "Top nav dropdown item color"
+msgstr "Top nav dropdown item colour"
+
+#: inc/customizer.php:381 options.php:312
+msgid "Dropdown item color"
+msgstr "Dropdown item colour"
+
+#: inc/customizer.php:391 options.php:319
+msgid "Top nav dropdown item hover color"
+msgstr "Top nav dropdown item hover colour"
+
+#: inc/customizer.php:392 options.php:320
+msgid "Dropdown item hover color"
+msgstr "Dropdown item hover colour"
+
+#: inc/customizer.php:402 options.php:327
+msgid "Top nav dropdown item background hover color"
+msgstr "Top nav dropdown item background hover colour"
+
+#: inc/customizer.php:348 options.php:288
+msgid "Link color"
+msgstr "Link Colour"
+
+#: inc/customizer.php:337 options.php:279
+msgid "Top nav background color"
+msgstr "Top nav background colour"
+
+#: inc/customizer.php:347 options.php:287
+msgid "Top nav item color"
+msgstr "Top nav item colour"
+
+#: inc/customizer.php:327 options.php:274
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer.php:320 options.php:266
+msgid "Link:hover Color"
+msgstr "Link:hover Colour"
+
+#: inc/customizer.php:310 options.php:258
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: inc/customizer.php:300 options.php:250
+msgid "Heading Color"
+msgstr "Heading Colour"
+
+#: inc/customizer.php:259 options.php:241
+msgid "Main Body Text"
+msgstr "Main Body Text"
+
+#: options.php:242
+msgid "Used in P tags"
+msgstr "Used in P tags"
+
+#: inc/customizer.php:301 options.php:251
+msgid "Color for all headings (h1-h6)"
+msgstr "Color for all headings (h1-h6)"
+
+#: inc/customizer.php:239 options.php:236
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/customizer.php:156 options.php:175
+msgid "Action Button"
+msgstr "Action Button"
+
+#: options.php:168
+msgid "Upload a 32px x 32px PNG/GIF image that will represent your websites favicon"
+msgstr "Upload a 32px x 32px PNG/GIF image that will represent your websites favicon"
+
+#: inc/customizer.php:166 options.php:180
+msgid "Call For Action Text"
+msgstr "Call For Action Text"
+
+#: inc/customizer.php:167 options.php:181
+msgid "Enter the text for call for action section"
+msgstr "Enter the text for call for action section"
+
+#: inc/customizer.php:178 options.php:188
+msgid "Call For Action Button Title"
+msgstr "Call For Action Button Title"
+
+#: inc/customizer.php:180 options.php:189
+msgid "Enter the title for Call For Action button"
+msgstr "Enter the title for Call For Action button"
+
+#: inc/customizer.php:190 options.php:196
+msgid "CFA button link"
+msgstr "CFA button link"
+
+#: inc/customizer.php:192 options.php:197
+msgid "Enter the link for Call For Action button"
+msgstr "Enter the link for Call For Action button"
+
+#: inc/customizer.php:202 options.php:204
+msgid "Call For Action Text Color"
+msgstr "Call For Action Text Colour"
+
+#: inc/customizer.php:212 options.php:212
+msgid "Call For Action Background Color"
+msgstr "Call For Action Background Colour"
+
+#: inc/customizer.php:222 options.php:220
+msgid "Call For Action Button Border Color"
+msgstr "Call For Action Button Border Colour"
+
+#: inc/customizer.php:232 options.php:228
+msgid "Call For Action Button Text Color"
+msgstr "Call For Action Button Text Colour"
+
+#: options.php:167
+msgid "Custom Favicon"
+msgstr "Custom Favicon"
+
+#: options.php:110
+msgid "Main"
+msgstr "Main"
+
+#: options.php:115
+msgid "Do You want to display image slider on the Home Page?"
+msgstr "Do You want to display image slider on the Home Page?"
+
+#: inc/customizer.php:76 options.php:116
+msgid "Check if you want to enable slider"
+msgstr "Check if you want to enable slider"
+
+#: inc/customizer.php:91 options.php:123
+msgid "Slider Category"
+msgstr "Slider Category"
+
+#: inc/customizer.php:94 options.php:124
+msgid "Select a category for the featured post slider"
+msgstr "Select a category for the featured post slider"
+
+#: inc/customizer.php:104 options.php:132
+msgid "Number of slide items"
+msgstr "Number of slide items"
+
+#: inc/customizer.php:106 options.php:133
+msgid "Enter the number of slide items"
+msgstr "Enter the number of slide items"
+
+#: inc/customizer.php:123 options.php:141
+msgid "Website Layout Options"
+msgstr "Website Layout Options"
+
+#: options.php:142
+msgid "Choose between Left and Right sidebar options to be used as default"
+msgstr "Choose between Left and Right sidebar options to be used as default"
+
+#: options.php:151
+msgid "Element color"
+msgstr "Element colour"
+
+#: inc/customizer.php:137 inc/customizer.php:149 inc/customizer.php:203
+#: inc/customizer.php:213 inc/customizer.php:223 inc/customizer.php:233
+#: inc/customizer.php:311 inc/customizer.php:321 inc/customizer.php:338
+#: inc/customizer.php:478 inc/customizer.php:489 options.php:152
+#: options.php:160 options.php:205 options.php:213 options.php:221
+#: options.php:229 options.php:259 options.php:267 options.php:280
+#: options.php:390 options.php:398
+msgid "Default used if no color is selected"
+msgstr "Default used if no colour is selected"
+
+#: inc/customizer.php:148 options.php:159
+msgid "Element color on hover"
+msgstr "Element colour on hover"
+
+#: options.php:37
+msgid "Pancake"
+msgstr "Pancake"
+
+#: options.php:38
+msgid "Omelette"
+msgstr "Omelette"
+
+#: options.php:39
+msgid "Crepe"
+msgstr "Crepe"
+
+#: options.php:40
+msgid "Waffle"
+msgstr "Waffle"
+
+#: options.php:29
+msgid "Three"
+msgstr "Three"
+
+#: options.php:30
+msgid "Four"
+msgstr "Four"
+
+#: options.php:36
+msgid "French Toast"
+msgstr "French Toast"
+
+#: options.php:31
+msgid "Five"
+msgstr "Five"
+
+#: options.php:27
+msgid "One"
+msgstr "One"
+
+#: options.php:28
+msgid "Two"
+msgstr "Two"
+
+#: functions.php:304 options.php:23
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:304 options.php:23
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/widgets/widget-social.php:18 inc/widgets/widget-social.php:40
+msgid "Follow us"
+msgstr "Follow us"
+
+#: inc/widgets/widget-popular-posts.php:107
+msgid "Limit Posts Number"
+msgstr "Limit Posts Number"
+
+#: inc/widgets/widget-social.php:11 inc/widgets/widget-social.php:12
+msgid "Sparkling Social Widget"
+msgstr "Sparkling Social Widget"
+
+#: inc/widgets/widget-popular-posts.php:99
+msgid "Title"
+msgstr "Title"
+
+#: inc/widgets/widget-popular-posts.php:17
+#: inc/widgets/widget-popular-posts.php:94
+msgid "Popular Posts"
+msgstr "Popular Posts"
+
+#: inc/widgets/widget-categories.php:91
+msgid "Limit Categories "
+msgstr "Limit Categories "
+
+#: inc/widgets/widget-categories.php:104
+msgid "Enable Posts Count"
+msgstr "Enable Posts Count"
+
+#: inc/widgets/widget-popular-posts.php:11
+#: inc/widgets/widget-popular-posts.php:12
+msgid "Sparkling Popular Posts Widget"
+msgstr "Sparkling Popular Posts Widget"
+
+#: inc/widgets/widget-categories.php:83 inc/widgets/widget-social.php:42
+msgid "Title "
+msgstr "Title"
+
+#: inc/widgets/widget-categories.php:17 inc/widgets/widget-categories.php:76
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-chevron-left\"></i> %title"
+msgstr "<i class=\"fa fa-chevron-left\"></i> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-chevron-right\"></i>"
+msgstr "%title <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/widgets/widget-categories.php:11 inc/widgets/widget-categories.php:12
+msgid "Sparkling Categories"
+msgstr "Sparkling Categories"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:27
+msgid "<i class=\"fa fa-chevron-left\"></i> Older posts"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Older posts"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Newer posts <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/customizer.php:707 inc/extras.php:353
+msgid "Follow on Twitter"
+msgstr "Follow on Twitter"
+
+#: inc/customizer.php:706 inc/extras.php:352
+msgid "Like on Facebook"
+msgstr "Like on Facebook"
+
+#: inc/extras.php:230
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Theme by %1$s Powered by %2$s"
+
+#: inc/customizer.php:703 inc/extras.php:349
+msgid "If you like this theme, I'd appreciate any of the following:"
+msgstr "If you like this theme, I'd appreciate any of the following:"
+
+#: inc/customizer.php:525 inc/extras.php:341
+msgid "Support and Documentation"
+msgstr "Support and Documentation"
+
+#: inc/customizer.php:701 inc/extras.php:347
+msgid "Sparkling Documentation"
+msgstr "Sparkling Documentation"
+
+#: inc/customizer.php:702 inc/extras.php:348
+msgid "The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via"
+msgstr "The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via"
+
+#: inc/customizer.php:702 inc/extras.php:348
+msgid "Colorlib support forum"
+msgstr "Colourlib support forum"
+
+#: inc/customizer.php:705 inc/extras.php:351
+msgid "Rate this Theme"
+msgstr "Rate this Theme"
+
+#: inc/extras.php:87
+msgid "Submit"
+msgstr "Submit"
+
+#: inc/extras.php:84
+msgid "Password:"
+msgstr "Password:"
+
+#: inc/extras.php:83
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "This post is password protected. To view it please enter your password below:"
+
+#: inc/customizer.php:36
+msgid "Content Options"
+msgstr "Content Options"
+
+#: inc/customizer.php:47
+msgid "Show post excerpts?"
+msgstr "Show post excerpts?"
+
+#: inc/customizer.php:58
+msgid "Display Comments on Static Pages?"
+msgstr "Display Comments on Static Pages?"
+
+#: image.php:22
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Previous"
+
+#: image.php:23
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Next <i class=\"fa fa-chevron-right\"></i>"
+
+#: functions.php:158
+msgid "Footer Widget 2"
+msgstr "Footer Widget 2"
+
+#: functions.php:168
+msgid "Footer Widget 3"
+msgstr "Footer Widget 3"
+
+#: functions.php:148
+msgid "Footer Widget 1"
+msgstr "Footer Widget 1"
+
+#: functions.php:118
+msgid "Homepage Widget 1"
+msgstr "Homepage Widget 1"
+
+#: functions.php:119 functions.php:129 functions.php:139
+msgid "Displays on the Home Page"
+msgstr "Displays on the Home Page"
+
+#: functions.php:128
+msgid "Homepage Widget 2"
+msgstr "Homepage Widget 2"
+
+#: functions.php:138
+msgid "Homepage Widget 3"
+msgstr "Homepage Widget 3"
+
+#: functions.php:149 functions.php:159 functions.php:169
+msgid "Used for footer widget area"
+msgstr "Used for footer widget area"
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:70 inc/extras.php:156
+msgid "Footer Links"
+msgstr "Footer Links"
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: content.php:32 content.php:45
+msgid "Read More"
+msgstr "Read more"
+
+#: content.php:20
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content.php:20
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-single.php:23
+msgid " %1$s"
+msgstr " %1$s"
+
+#: content.php:20
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:19
+msgid ", "
+msgstr ", "
+
+#: content-page.php:32 content-single.php:26 content.php:23
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:21 content-single.php:35 content.php:49 image.php:79
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Statuses"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galleries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: 404.php:58
+msgid "Tags"
+msgstr "Tags"
+
+#: 404.php:53 archive.php:66 sidebar.php:19
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:25
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "http://colorlib.com/"
+msgstr "http://colorlib.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://colorlib.com/wp/themes/sparkling"
+msgstr "http://colorlib.com/wp/themes/sparkling"
+
+#. Author of the plugin/theme
+msgid "Colorlib"
+msgstr "Colourlib"
