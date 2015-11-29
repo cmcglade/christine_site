@@ -1,0 +1,20 @@
+/*
+Theme Name: Christines_rockin_theme
+Description: Child theme based on Twenty Fifteen 
+Author: Analytical Engine Interactive Inc.
+Version: 1.0
+Template: twentythirteen
+*/
+
+
+@import url('../twentythirteen/style.css');
+
+.site-title {
+    font-size: 36px;
+    line-height: 2;
+    margin: 10px auto;
+}
+
+.site-description {
+    font: 300 italic 18px Helvetica, sans-serif;
+}
