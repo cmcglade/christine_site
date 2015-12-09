@@ -1,7 +1,7 @@
 	
 <?php
 /*
- * Template Name: My Custom Page
+ * Template Name: No Title
  */
 
 get_header(); ?>

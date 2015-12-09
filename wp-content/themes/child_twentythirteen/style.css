@@ -9,3 +9,7 @@ Template: twentythirteen
 
 @import url('../twentythirteen/style.css');*/
 
+.site-header-contact {
+    background color: blue;
+    background-size: 1600px auto;
+}
