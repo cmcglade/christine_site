@@ -9,7 +9,17 @@ Template: twentythirteen
 
 @import url('../twentythirteen/style.css');*/
 
+
 .site-header-contact {
     background color: blue;
     background-size: 1600px auto;
 }
+
+h2 {
+	font-family: 'Mountains of Christmas', cursive;
+}
+
+h1 {
+	font-family: 'Montserrat'; sans-serif;
+}
+
