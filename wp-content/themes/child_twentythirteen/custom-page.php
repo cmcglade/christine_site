@@ -14,9 +14,8 @@ get_header(); ?>
 
 				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 					
-					<!--don't want to show title on front page-->
-					<?php
-					if ( !is_front_page() ) { ?>
+					
+					
 					
 					<header class="entry-header">
 						<?php if ( has_post_thumbnail() && ! post_password_required() ) : ?>
@@ -25,10 +24,10 @@ get_header(); ?>
 						</div>
 						<?php endif; ?>
 
-						<h1 class="entry-title"><?php the_title(); ?></h1>
+						<!--<h1 class="entry-title"><?php the_title(); ?></h1>-->
 					</header><!-- .entry-header -->
 					
-					<?php } ?>
+				
 					
 					<div class="entry-content">
 						<?php the_content(); ?>
